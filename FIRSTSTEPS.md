@@ -1,8 +1,6 @@
-# Hyde
-
-Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name. It pairs a prominent sidebar with uncomplicated content.
-
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+# SAMPTA 2023
+July 10-14th, 2023
+Hosted at Yale University in New Haven, Connecticut.
 
 ## First Steps
 
