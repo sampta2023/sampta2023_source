@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://sampta2023.github.io"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "SAMPTA 2023"
 [params]
 disqusShortname = ""
 googleAnalytics = ""
