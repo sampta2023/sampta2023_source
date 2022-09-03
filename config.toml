@@ -8,3 +8,6 @@ googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
+[params.meta]
+description = "Sampling Theory and Applications Conference"
+keywords = "complex analysis, sampling theory"
