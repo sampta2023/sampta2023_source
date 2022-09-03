@@ -1,4 +1,4 @@
-baseURL = "https://sampta2023.github.io"
+baseURL = "https://sampta2023.github.io/"
 languageCode = "en-us"
 theme = "hyde"
 title = "SAMPTA 2023"
