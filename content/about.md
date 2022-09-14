@@ -14,63 +14,87 @@ SampTA (Sampling Theory and Applications) is a biennial interdisciplinary confer
 
 The SampTA conference series began as a small workshop in 1995 in Riga, Latvia, but the meetings grew into full-fledged conferences attracting an even mix of mathematicians and engineers as the interest in sampling theory and its many applications blossomed. This even mix makes the SampTA meetings unique in the scientific community. The conference organization is headed by an international steering committee consisting of prominent mathematicians and engineers, and a technical committee responsible for the conference program.
 
+## Contact
+Get in touch with the organizers by emailing [sampta2023@proton.me](mailto:sampta2023@proton.me)
+
 ## Past meetings
 Bordeaux, France, July 8-12, 2019 [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=sampTA&ranges=2019_2019_Year)
+
 Tallinn, Estonia, July 3–7, 2017  [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=sampTA&ranges=2017_2017_Year)
+
 Washington, D.C., U.S., May 25–29, 2015 [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=sampTA&ranges=2015_2015_Year)
+
 Bremen, Germany, July 1–5, 2013
+
 Singapore, May 2–6, 2011
+
 Marseille, France, May 18–22, 2009
+
 Thessaloniki, Greece, June 1–5, 2007
+
 Samsun, Turkey, July 10–15, 2005
+
 Strobl, Austria, May 26– 30, 2003
+
 Orlando, U.S., May 13– 17, 2001
+
 Loen, Norway, August 11– 14, 1999
+
 Aveiro, Portugal, July 16– 19, 1997
+
 Riga, Latvia, September 20– 22, 1995
 
 # The People
 ## Organizing Committee
 
-Jean-François Aujol, Université de Bordeaux 
-Andreas Hartmann, Université de Bordeaux
-Philippe Jaming, Université de Bordeaux
-Karim Kellay, Université de Bordeaux
+Smita Krishnaswamy, Yale University
+Ian Adelstein, Yale University
+
+## Technical Chairs of SampTA 2023
+
+
 
 ## IEEE SPS Liaison
 
 Yue Lu, Harvard University
 
-## Technical Chairs of SampTA 2019
-
-Arash Amini, Sharif University of Technology
-Radu Balan, University of Maryland
-Holger Boche, Technical University Munich
-Monika Dörfler, Vienna University
-Holger Rauhut, RWTH Aachen
-Rebecca Willett, University of Chicago
-
 ## Steering Committee
 
 Ahmed Zayed, Chair (DePaul University, USA),
+
 Akram Aldroubi  (Vanderbilt University, USA),
+
 John Benedetto  (University of Maryland, USA),
+
 Yonina Eldar  (Technion, Israel),
+
 Paulo Ferreira  (University of Aveiro, Portugal),
+
 Gitta Kutyniok  (TU Berlin, Germany),
+
 Farokh Marvasti  (Sharif University of Technology, Iran),
+
 Götz Pfander (Catholic University Eichstätt-Ingolstadt, Germany)[chair],
+
 Bruno Torrésani  (Aix-Marseille Université, France),
+
 Michael Unser  (EPFL, Switzerland)
 
 ## Founding Members
 
-Paul Butzer  (RWTH Aachen, Germany), 
-Hans Feichtinger  (University of Vienna, Austria), 
-Karlheinz Gröchenig (University of Vienna, Austria), 
-Rowland Higgins (Anglia Polytechnic University, UK), 
-Abdul Jerri  (Clarkson University, USA), 
-Andi Kivinukk  (Tallinn University, Estonia), 
-Yuri Lyubarskii  (Norwegian University of Science and Technology), 
-Gerhard Schmeisser  (Erlangen-Nürnberg University, Germany),
+Paul Butzer  (RWTH Aachen, Germany)
+
+Hans Feichtinger  (University of Vienna, Austria)
+ 
+Karlheinz Gröchenig (University of Vienna, Austria) 
+
+Rowland Higgins (Anglia Polytechnic University, UK) 
+
+Abdul Jerri  (Clarkson University, USA)
+
+Andi Kivinukk  (Tallinn University, Estonia)
+
+Yuri Lyubarskii  (Norwegian University of Science and Technology)
+ 
+Gerhard Schmeisser  (Erlangen-Nürnberg University, Germany)
 
