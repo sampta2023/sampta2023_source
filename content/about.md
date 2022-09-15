@@ -59,7 +59,7 @@ Guy Wolf (Université de Montréal, CA)
 
 ## IEEE SPS Liaison
 
-Yue Lu, Harvard University
+Yue Lu (Harvard University, USA)
 
 ## Steering Committee
 
