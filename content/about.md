@@ -48,6 +48,7 @@ Riga, Latvia, September 20– 22, 1995
 ## Organizing Committee
 
 Smita Krishnaswamy, Yale University
+
 Ian Adelstein, Yale University
 
 ## Technical Chairs of SampTA 2023
