@@ -47,9 +47,11 @@ Riga, Latvia, September 20– 22, 1995
 # The People
 ## Organizing Committee
 
-Smita Krishnaswamy, Yale University
+Smita Krishnaswamy (Yale University, USA)
 
-Ian Adelstein, Yale University
+Ian Adelstein (Yale University, USA)
+
+Guy Wolf (Université de Montréal, CA)
 
 ## Technical Chairs of SampTA 2023
 
