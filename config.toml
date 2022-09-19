@@ -8,6 +8,6 @@ title = "SAMPTA 2023"
 	googleAnalytics = ""
 	layoutReverse = false
 	theme = "hyde"
-	themeColor = ".theme-base-08"
+	themeColor = "theme-base-08"
 [params.meta]
 	keywords = "complex analysis, sampling theory"
