@@ -3,12 +3,11 @@ languageCode = "en-us"
 theme = "hyde"
 title = "SAMPTA 2023"
 [params]
-description = "Sampling Theory and Applications Conference"
-disqusShortname = ""
-googleAnalytics = ""
-layoutReverse = false
-theme = "hyde"
-[params]
+	description = "Sampling Theory and Applications Conference"
+	disqusShortname = ""
+	googleAnalytics = ""
+	layoutReverse = false
+	theme = "hyde"
 	themeColor = ".theme-base-08"
 [params.meta]
 	keywords = "complex analysis, sampling theory"
