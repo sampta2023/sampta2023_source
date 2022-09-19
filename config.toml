@@ -8,6 +8,7 @@ disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
-themeColor = ""
+[params]
+	themeColor = ".theme-base-08"
 [params.meta]
-keywords = "complex analysis, sampling theory"
+	keywords = "complex analysis, sampling theory"
