@@ -51,7 +51,7 @@ Smita Krishnaswamy (Yale University, USA)
 
 Ian Adelstein (Yale University, USA)
 
-Guy Wolf (Université de Montréal, CA)
+Guy Wolf (Université de Montréal, Canada)
 
 ## Technical Chairs of SampTA 2023
 
