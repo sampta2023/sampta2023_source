@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing SampTA 2023
-date: 2022-09-02 00:00:00 +0000
+date: 2022-10-10 00:00:00 +0000
 ---
 
 # SampTA is back!
