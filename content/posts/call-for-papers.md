@@ -5,11 +5,11 @@ date: 2022-09-03 00:00:00 +0000
 
 ---
 
-Abstract submission deadline: **by the end of Friday February 10, 2023, Anywhere on Earth**
+Abstract submission deadline: **by the end of Friday March 10, 2023, Anywhere on Earth**
 
-Full paper submission and co-author registration deadline: **Monday February 20, 2023 AoE**
+Full paper submission and co-author registration deadline: **Friday March 17, 2023 AoE**
 
-Supplementary materials submission deadline: **Friday February 24, 2023 AoE**
+Supplementary materials submission deadline: **Friday March 24, 2023 AoE**
 
 Author notification: **Wednesday May 10, 2023 AoE**
 
