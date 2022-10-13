@@ -67,7 +67,7 @@ Our submission instructions and review process follow standard [NeurIPS Guidelin
 
 ## Formatting Instructions:
 
-Submit a PDF of **no more than 4 pages**, including figures and tables, using the style
+Submit a PDF of **no more than 4 pages**, including figures and tables, using the IEEE style in LaTeX:
 
 ```
 \documentclass[conference] {IEEEtran}
