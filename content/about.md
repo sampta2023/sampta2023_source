@@ -55,6 +55,19 @@ Guy Wolf (Université de Montréal, Canada)
 
 ## Technical Chairs of SampTA 2023
 
+Götz Pfander (Catholic University Eichstätt-Ingolstadt, Germany)
+
+Deanna Needell (UCLA, US)
+
+Bubacarr Bah (African Institute for Mathematical Sciences, South Africa)
+
+Ulugbek Kamilov (Washington University in St Louis, US)
+
+Monika Dörfler (University of Vienna, Austria)
+
+Radu Victor Balan (University of Maryland, US)
+
+Arash Amini (UCLA, US)
 
 
 ## IEEE SPS Liaison
