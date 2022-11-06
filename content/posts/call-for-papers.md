@@ -2,7 +2,6 @@
 layout: post
 title: Call for Papers
 date: 2022-09-03 00:00:00 +0000
-
 ---
 
 Abstract submission deadline: **by the end of Friday March 10, 2023, Anywhere on Earth**
