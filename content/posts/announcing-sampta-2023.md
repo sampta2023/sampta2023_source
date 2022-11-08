@@ -14,5 +14,6 @@ Our plenary speakers will include:
 - Mark Iwen (Michigan State University)
 - Holger Rauhut (Aachen University)
 - Coralia Cartis (Oxford)
+- [Rebecca Willett](https://willett.psd.uchicago.edu) (University of Chicago)
 
 Further details (including panelists, and a detailed schedule) are coming soon. We'll keep this page updated with the latest details.
