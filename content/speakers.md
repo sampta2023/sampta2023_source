@@ -7,7 +7,6 @@ menu:
     weight: 1
 ---
 
-# Plenary Speakers
 Our plenary speakers will include:
 - [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins) 
 - [Laura Balzano](https://web.eecs.umich.edu/~girasole/) (University of Michigan)
