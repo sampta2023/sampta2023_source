@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speakers
+title: Speakers & Sessions
 date: 2022-11-11
 menu:
   main:
@@ -16,3 +16,4 @@ Our plenary speakers will include:
 - [Holger Rauhut](http://www.mathc.rwth-aachen.de/~rauhut/home/) (Aachen University)
 - [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) (Oxford)
 - [Rebecca Willett](https://willett.psd.uchicago.edu) (University of Chicago)
+
