@@ -21,3 +21,4 @@ We will host mini-sessions on topics including:
 - Manifold learning from data
 - Graph Signal Processing
 - Topological Data Analysis
+- Sampling Theory for Neural Activity Data
