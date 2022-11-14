@@ -16,3 +16,8 @@ Our plenary speakers will include:
 - [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) (Oxford)
 - [Rebecca Willett](https://willett.psd.uchicago.edu) (University of Chicago)
 
+
+We will host mini-sessions on topics including:
+- Manifold learning from data
+- Graph Signal Processing
+- Topological Data Analysis
