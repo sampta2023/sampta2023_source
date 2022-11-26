@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "hyde"
 title = "SAMPTA 2023"
 [params]
-	description = "Sampling Theory and Applications Conference"
+	description = "Sampling Theory and Applications Conference. July 10-14 at Yale."
 	disqusShortname = ""
 	googleAnalytics = ""
 	layoutReverse = false
