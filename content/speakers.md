@@ -22,3 +22,12 @@ We will host mini-sessions on topics including:
 - Graph Signal Processing
 - Topological Data Analysis
 - Sampling Theory for Neural Activity Data
+
+Our special sessions will be hosted by:
+- [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA) 
+- [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
+- [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) 
+- [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt)
+- [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine)
+- [Kevin Moon](https://www.usu.edu/math/directory/faculty/moon-kevin) (Utah State)
+- [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
