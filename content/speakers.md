@@ -8,6 +8,8 @@ menu:
 ---
 
 Our plenary speakers will include:
+- [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
+- [Dan Spielman](http://cs.yale.edu/homes/spielman/) (Yale)
 - [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins) 
 - [Laura Balzano](https://web.eecs.umich.edu/~girasole/) (University of Michigan)
 - [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia University)
@@ -24,8 +26,6 @@ We will host special sessions on topics including:
 - Sampling Theory for Neural Activity Data
 
 These special sessions will be hosted by:
-- [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
-- [Dan Spielman](http://cs.yale.edu/homes/spielman/) (Yale)
 - [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA) 
 - [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
 - [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) 
