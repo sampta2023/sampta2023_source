@@ -18,14 +18,8 @@ Our plenary speakers will include:
 - [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis) (Oxford)
 - [Rebecca Willett](https://willett.psd.uchicago.edu) (University of Chicago)
 
+Our special sessions will cover *Manifold Learning from Data*, *Graph Signal Processing*, *Topological Data Analysis* and *Sampling Theory for Neural Activity Data* (among other topics), hosted by:
 
-We will host special sessions on topics including:
-- Manifold learning from data
-- Graph Signal Processing
-- Topological Data Analysis
-- Sampling Theory for Neural Activity Data
-
-These special sessions will be hosted by:
 - [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA) 
 - [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
 - [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) 
