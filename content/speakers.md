@@ -17,17 +17,18 @@ Our plenary speakers will include:
 - [Rebecca Willett](https://willett.psd.uchicago.edu) (University of Chicago)
 
 
-We will host mini-sessions on topics including:
+We will host special sessions on topics including:
 - Manifold learning from data
 - Graph Signal Processing
 - Topological Data Analysis
 - Sampling Theory for Neural Activity Data
 
-Our special sessions will be hosted by:
+These special sessions will be hosted by:
+- [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
+- [Dan Spielman](http://cs.yale.edu/homes/spielman/) (Yale)
 - [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA) 
 - [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
 - [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) 
 - [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt)
 - [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine)
 - [Kevin Moon](https://www.usu.edu/math/directory/faculty/moon-kevin) (Utah State)
-- [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
