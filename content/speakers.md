@@ -8,6 +8,7 @@ menu:
 ---
 
 Our plenary speakers will include:
+
 - [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
 - [Dan Spielman](http://cs.yale.edu/homes/spielman/) (Yale)
 - [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins) 
@@ -20,9 +21,12 @@ Our plenary speakers will include:
 
 Our special sessions will cover *Manifold Learning from Data*, *Graph Signal Processing*, *Topological Data Analysis* and *Sampling Theory for Neural Activity Data* (among other topics), hosted by:
 
+- [Elizaveta Rebrova](https://erebrova.github.io/) (Princeton)
 - [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA) 
 - [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
 - [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) 
 - [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt)
 - [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine)
 - [Kevin Moon](https://www.usu.edu/math/directory/faculty/moon-kevin) (Utah State)
+- [Longxiu Huang](http://longxiuhuang.com/) (Michigan State University)
+- [Guillaume Lajoie](https://www.guillaumelajoie.com/) (University of Montreal)
