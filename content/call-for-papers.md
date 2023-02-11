@@ -17,7 +17,7 @@ Author notification: **Wednesday May 10, 2023 AoE**
 
 Camera-ready, poster, and video submission: **Wednesday May 31, 2023 AoE**
 
-The site will start accepting submissions on: **Tuesday** **January 10th, 2023**
+The site will start accepting submissions on: **Friday** **February 17th, 2023**
 
 The 14th annual conference on Sampling Theory and Applications is an interdisciplinary forum for mathematicians, engineers, and applied scientists to share recent advances in sampling theory and discuss trends in the field and its applications. We now invite submissions of original research in topics including:
 
@@ -101,7 +101,7 @@ You are allowed to distribute non-anonymous preprints of work submitted to SamPT
 
 ## Dual Submissions
 
-Submissions to SamPTA will be rejected if they are considered too similar to works previously published, accepted for publication, or submitted in parallel to other peer-reviewed journals. The exception: work from non-archival workshops, such as NeurIPS/ICML workshops, may be submitted.
+Submissions to SamPTA will be rejected if they are considered too similar to works previously published or accepted for publication. The exception: work from non-archival workshops, such as NeurIPS/ICML workshops, may be submitted. SamPTA also accepts work submitted in parallel to both our conference and to other peer-reviewed venues like journals.
 
 ## Author Responses
 

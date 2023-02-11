@@ -11,8 +11,7 @@ Our plenary speakers will include:
 
 - [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
 - [Dan Spielman](http://cs.yale.edu/homes/spielman/) (Yale)
-- [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins) 
-- [Laura Balzano](https://web.eecs.umich.edu/~girasole/) (University of Michigan)
+- [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins)
 - [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia University)
 - [Mark Iwen](https://users.math.msu.edu/users/iwenmark/) (Michigan State University)
 - [Holger Rauhut](http://www.mathc.rwth-aachen.de/~rauhut/home/) (Aachen University)
@@ -22,7 +21,7 @@ Our plenary speakers will include:
 
 # Special Sessions
 
-Our special sessions will bring together domain experts to present on topics including *Manifold Learning from Data*, *Graph Signal Processing*, *Topological Data Analysis*, and *Sampling Theory for Neural Activity Data*, among others. Each session will feature 3-4 speakers, and run for 2 hours. The following is a preliminary listing of session topics, organizers, and speakers. 
+Our special sessions will bring together domain experts to present on topics including *Manifold Learning from Data*, *Graph Signal Processing*, *Topological Data Analysis*, and *Sampling Theory for Neural Activity Data*, among others. Each session will feature 3-4 speakers, and run for 2 hours. 
 
 ## Manifold Learning from Data
 Hosted by [Kevin Moon](https://www.usu.edu/math/directory/faculty/moon-kevin) (Utah State).
