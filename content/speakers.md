@@ -27,22 +27,49 @@ Our special sessions will bring together domain experts to present on topics inc
 Hosted by [Kevin Moon](https://www.usu.edu/math/directory/faculty/moon-kevin) (Utah State).
 
 ## Signal and Image Processing
-Hosted by [Longxiu Huang](http://longxiuhuang.com/) (Michigan State University).
+Hosted by [Longxiu Huang](http://longxiuhuang.com/) (Michigan State University) and [Sui Tang](https://web.math.ucsb.edu/~suitang/) (UCSB). 
+
+This symposium will delve into the realm of graph-based signal and image processing. Experts from this field will come together to share their latest research findings, discuss current challenges and opportunities, and network with their peers. The event will cover a range of topics including signal and image processing techniques, sampling and reconstruction methods, graph neural networks, and their applications. With a focus on both theory and practical applications, this symposium promises to provide valuable insights and knowledge for those interested in these cutting-edge and rapidly growing areas.
+
+This session will feature [Jin Qing](https://math.as.uky.edu/users/jqi229) (University of Kentucky), [Kiryung Lee](https://ece.osu.edu/people/lee.8763) (Ohio State), [Selin Aviyente](https://www.egr.msu.edu/people/profile/aviyente), and [Gal Mishne](http://mishne.ucsd.edu/) (UCSD).
 
 ## Methods for Low Rank Matrices and Tensors
 Hosted by [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt) and [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine),
 
+Featuring [Misha Kilmer](https://mkilme01.pages.tufts.edu/) (Tufts), [Yizhe Zhu](https://sites.google.com/uci.edu/yizhezhu) (UC Irvine), [Lijun Ding](https://www.lijunding.net) (UW Madison), [Shu Yang Ling](https://research.shanghai.nyu.edu/centers-and-institutes/math/people/shuyang-ling) (NYU Shang Hai).
+
+
 ## Data Geometry and Optimization
 Hosted by [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) and [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA).
+
+Prior work in optimization has focused on the function that is being optimized. However, in recent years, there has been a shift towards looking at the geometry of the data as well. By appropriately incorporating the geometry of the data, we can get better convergence, change the local optima that we converge to, or better understand the properties of the optima that we converge to. In this mini-symposia, we invite speakers to talk about recent advances in optimization that incorporate the geometry of the data to solve or understand the optimization problem. 
+
+This sessions will feature [Nicholas Garcia Trillos](https://stat.wisc.edu/staff/trillos-nicolas-garcia/) (UW Madison) and [Guido Montufar](https://www.math.ucla.edu/~montufar/) (UCLA).
+
 
 ## Randomized Algorithms for Complex Data
 Hosted by [Elizaveta Rebrova](https://erebrova.github.io/) (Princeton).
 
+Featuring Taylor Chen (NYU), [Sofya Rashodnikova](https://cs-people.bu.edu/sofya/) (BU), [Ruhui Jin](https://math.wisc.edu/staff/jin-ruhui/) (UW Madison),[Rishabh Dudeja](http://www.columbia.edu/~rd2714/) (Harvard), [Nicholas Loizoi](https://engineering.jhu.edu/faculty/nicolas-loizou/) (Hopkins)
+
 ## Machine Learning and Signal Processing on Graphs and Manifolds
 Hosted by [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA).
+
+Recent years have seen rapid growth in the development of data science and machine learning techniques for graph- and manifold-structured data. These techniques typically aim to find and utilize the (often hidden) intrinsic geometric structure of the data set. This session will feature several examples of such techniques which are based on methods initially developed in the context of graph signal processing. 
+
+This session will feature [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis), [Anna Little](https://www.anna-little.com) (University of Utah), and [Luana Ruiz](https://sites.google.com/view/luana-ruiz/home) (Johns Hopkins).
+
 
 ## Sampling Theory in Neuroscience
 Hosted by [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany) and [Guillaume Lajoie](https://www.guillaumelajoie.com/) (University of Montreal).
 
+Featuring [John Murray](https://uk.linkedin.com/in/murraydata) (University of Liverpool), [Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer) (Georgia Tech), [Ashok Kumar](https://www.linkedin.com/in/ashokkumar42), [Kanaka Rajan](https://www.rajanlab.com/) (Icahn School of Medicine), [Danillo Bdzok](https://www.mcgill.ca/bbme/danilo-bzdok) (McGill).
+
 ## Quantization in Signal Processing and Data Science
-Hosted by [Johannes Maly](https://johannes-maly.github.io/) (LMU Munich).
+Hosted by [Johannes Maly](https://johannes-maly.github.io/) (LMU Munich) and [Sjoerd Dirksen](https://www.researchgate.net/profile/Sjoerd-Dirksen) (Ultrecht University)
+
+A common challenge in signal processing and data science is that digital processing requires to quantize all involved quantities to a finite alphabet. Whereas many numerical methods with robust guarantees remain reliable under such perturbations if the quantization alphabet is sufficiently large, in modern large-scale applications it is often necessary to apply extremely coarse quantization. This setting requires tailored algorithms and novel mathematical methods to analyze their performance. In this special session we will bring together experts from applied mathematics and engineering to discuss recent advances in the theory of quantization.
+
+This session will feature [Sinan Gunturk](https://www.math.nyu.edu/people/profiles/GUNTURK_Sinan.html) (Courant Institute), [Laurent Jacques](https://laurentjacques.gitlab.io) (UC Louvain), [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/) (UCSD), [Hanna Veselovska](https://annaveselovska.com/) (Technical University of Munich)
+
+
