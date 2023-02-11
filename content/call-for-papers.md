@@ -7,6 +7,8 @@ menu:
     weight: 1
 ---
 
+⭐ Submissions are live at our [Open Review page](https://openreview.net/group?id=SampTA/2023/Conference) ⭐
+
 Abstract submission deadline: **by the end of Friday March 10, 2023, Anywhere on Earth**
 
 Full paper submission and co-author registration deadline: **Friday March 17, 2023 AoE**
@@ -17,7 +19,7 @@ Author notification: **Wednesday May 10, 2023 AoE**
 
 Camera-ready, poster, and video submission: **Wednesday May 31, 2023 AoE**
 
-The site will start accepting submissions on: **Friday** **February 17th, 2023**
+The site will start accepting submissions on: **Friday** **January 9th, 2023**
 
 The 14th annual conference on Sampling Theory and Applications is an interdisciplinary forum for mathematicians, engineers, and applied scientists to share recent advances in sampling theory and discuss trends in the field and its applications. We now invite submissions of original research in topics including:
 
@@ -85,7 +87,7 @@ Submissions must be anonymized and carefully stripped of identifying information
 
 ## OpenReview
 
-(Details to be announced)
+Submissions can be created and managed through our [Open Review page](https://openreview.net/group?id=SampTA/2023/Conference).
 
 ## Abstract Submission
 
