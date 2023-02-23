@@ -101,10 +101,6 @@ You may include up to 100MB of supplementary material (appendices, proofs, data,
 
 You are allowed to distribute non-anonymous preprints of work submitted to SamPTA.
 
-## Dual Submissions
-
-Submissions to SamPTA will be rejected if they are considered too similar to works previously published or accepted for publication. The exception: work from non-archival workshops, such as NeurIPS/ICML workshops, may be submitted. SamPTA also accepts work submitted in parallel to both our conference and to other peer-reviewed venues like journals.
-
 ## Author Responses
 
 After initial reviews are distributed, authors will have one week to respond. Authors must maintain anonymity in their responses.
