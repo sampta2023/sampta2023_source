@@ -36,21 +36,22 @@ This session will feature [Jin Qing](https://math.as.uky.edu/users/jqi229) (Univ
 ## Methods for Low Rank Matrices and Tensors
 Hosted by [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt) and [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine),
 
-Featuring [Misha Kilmer](https://mkilme01.pages.tufts.edu/) (Tufts), [Yizhe Zhu](https://sites.google.com/uci.edu/yizhezhu) (UC Irvine), [Lijun Ding](https://www.lijunding.net) (UW Madison), [Shu Yang Ling](https://research.shanghai.nyu.edu/centers-and-institutes/math/people/shuyang-ling) (NYU Shang Hai).
-
+Featuring [Lijun Ding](https://www.lijunding.net) (UW Madison), [Lara Kassab](https://larakassab.weebly.com) (UCLA), [Palina Salanevich](https://palinasalanevich.wordpress.com/) (University of Utrecht), [Yizhe Zhu](https://sites.google.com/uci.edu/yizhezhu) (UC Irvine).
 
 ## Data Geometry and Optimization
 Hosted by [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) and [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA).
 
 Prior work in optimization has focused on the function that is being optimized. However, in recent years, there has been a shift towards looking at the geometry of the data as well. By appropriately incorporating the geometry of the data, we can get better convergence, change the local optima that we converge to, or better understand the properties of the optima that we converge to. In this mini-symposia, we invite speakers to talk about recent advances in optimization that incorporate the geometry of the data to solve or understand the optimization problem. 
 
-This sessions will feature [Nicholas Garcia Trillos](https://stat.wisc.edu/staff/trillos-nicolas-garcia/) (UW Madison) and [Guido Montufar](https://www.math.ucla.edu/~montufar/) (UCLA).
+This sessions will feature [Nicholas Garcia Trillos](https://stat.wisc.edu/staff/trillos-nicolas-garcia/) (UW Madison), [Guido Montufar](https://www.math.ucla.edu/~montufar/) (UCLA), and [Melanie Weber](http://melanie-weber.com) (Harvard).
 
 
 ## Randomized Algorithms for Complex Data
 Hosted by [Elizaveta Rebrova](https://erebrova.github.io/) (Princeton).
 
-Featuring Taylor Chen (NYU), [Sofya Rashodnikova](https://cs-people.bu.edu/sofya/) (BU), [Ruhui Jin](https://math.wisc.edu/staff/jin-ruhui/) (UW Madison),[Rishabh Dudeja](http://www.columbia.edu/~rd2714/) (Harvard), [Nicholas Loizoi](https://engineering.jhu.edu/faculty/nicolas-loizou/) (Hopkins)
+Over recent years, randomized methods led to breakthroughs in many areas, including large-scale optimization, numerical linear algebra, scientific computing, and machine learning. However, the interest in developing efficient, interpretable, and theory-supported randomized algorithms is only growing, partially motivated by the emergence of large-scale information-rich data — such as high-dimensional, multi-modal (tensor), or graph data. This SampTA section brings together the researchers creating and analyzing modern randomized algorithms for diverse problems involving large-scale complex data.
+
+Featuring [Tyler Chen](https://chen.pw) (NYU), [Ruhui Jin](https://math.wisc.edu/staff/jin-ruhui/) (UW Madison),[Rishabh Dudeja](http://www.columbia.edu/~rd2714/) (Harvard), [Nicolas Loizou](https://engineering.jhu.edu/faculty/nicolas-loizou/) (Hopkins).
 
 ## Machine Learning and Signal Processing on Graphs and Manifolds
 Hosted by [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA).
