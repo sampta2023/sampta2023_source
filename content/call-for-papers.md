@@ -65,7 +65,7 @@ The 14th annual conference on Sampling Theory and Applications is an interdiscip
 - quantum computing and quantum learning
 - operator and functional analytic methods related to the above topics
 
-Contributions from authors attending the SampTA conferences are usually published in special issues of [Sampling Theory, Signal Processing, and Data Analysis](https://www.springer.com/journal/43670/aims-and-scope), an international journal dedicated to sampling theory and its applications.
+Contributions from authors attending the SampTA conferences are usually published in [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp). 
 
 Our submission instructions and review process follow standard [NeurIPS Guidelines](https://neurips.cc/Conferences/2022/CallForPapers).
 

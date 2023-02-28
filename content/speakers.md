@@ -26,6 +26,10 @@ Our special sessions will bring together domain experts to present on topics inc
 ## Manifold Learning from Data
 Hosted by [Kevin Moon](https://www.usu.edu/math/directory/faculty/moon-kevin) (Utah State).
 
+Manifold learning algorithms are powerful data analysis methods that are based on the manifold assumption. Informally, the manifold assumption states that high dimensional data are approximated well by a small number of locally smooth dimensions. This special session focuses on recent manifold learning algorithms or recent mathematical insights obtained about existing manifold learning algorithms. Applications of interest include, but are not limited to, dimensionality reduction, data denoising, data visualization, data integration, density estimation, clustering, and semi-supervised learning.
+
+Featuring [Ronald Coifman](https://cpsc.yale.edu/people/ronald-coifman) (Yale), Jake Rhodes (Idaho State University), and [Roy Lederman](https://roy.lederman.name/) (Yale).
+
 ## Signal and Image Processing
 Hosted by [Longxiu Huang](http://longxiuhuang.com/) (Michigan State University) and [Sui Tang](https://web.math.ucsb.edu/~suitang/) (UCSB). 
 
