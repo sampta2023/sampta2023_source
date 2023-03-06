@@ -9,11 +9,7 @@ menu:
 
 ⭐ Submissions are live at our [Open Review page](https://openreview.net/group?id=SampTA/2023/Conference) ⭐
 
-Abstract submission deadline: **by the end of Friday March 10, 2023, Anywhere on Earth**
-
-Full paper submission and co-author registration deadline: **Friday March 17, 2023 AoE**
-
-Supplementary materials submission deadline: **Friday March 24, 2023 AoE**
+Full paper submission and co-author registration deadline: **April 01, 2023 AoE**
 
 Author notification: **Wednesday May 10, 2023 AoE**
 
