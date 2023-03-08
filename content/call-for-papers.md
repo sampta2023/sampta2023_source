@@ -9,7 +9,7 @@ menu:
 
 ⭐ Submissions are live at our [Open Review page](https://openreview.net/group?id=SampTA/2023/Conference) ⭐
 
-Full paper submission and co-author registration deadline: **April 01, 2023 AoE**
+Full paper submission and co-author registration deadline: **April 01, 2023 AoE** (Note: previously, there were separate deadlines for the abstract and paper submission. These are now combined, and the deadline has been extended. You needn't submit anything before April 1st.)
 
 Author notification: **Wednesday May 10, 2023 AoE**
 
@@ -67,7 +67,7 @@ Our submission instructions and review process follow standard [NeurIPS Guidelin
 
 ## Formatting Instructions:
 
-Submit a PDF of **no more than 4 pages**, including figures and tables, using the IEEE style in LaTeX:
+Submit a PDF of **no more than 4 pages**, including figures and tables (but excluding references), using the IEEE style in LaTeX:
 
 ```
 \documentclass[conference] {IEEEtran}
