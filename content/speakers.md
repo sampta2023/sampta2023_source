@@ -68,7 +68,7 @@ This session will feature [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (U
 ## Sampling Theory in Neuroscience
 Hosted by [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany) and [Guillaume Lajoie](https://www.guillaumelajoie.com/) (University of Montreal).
 
-Featuring [John Murray](https://uk.linkedin.com/in/murraydata) (University of Liverpool), [Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer) (Georgia Tech), [Ashok Kumar](http://lk.zuckermaninstitute.columbia.edu), [Kanaka Rajan](https://www.rajanlab.com/) (Icahn School of Medicine), [Danillo Bdzok](https://www.mcgill.ca/bbme/danilo-bzdok) (McGill).
+Featuring [John Murray](https://uk.linkedin.com/in/murraydata) (University of Liverpool), [Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer) (Georgia Tech), [Alex Williams](http://neurostatslab.org), [Kanaka Rajan](https://www.rajanlab.com/) (Icahn School of Medicine), [Danillo Bdzok](https://www.mcgill.ca/bbme/danilo-bzdok) (McGill).
 
 ## Quantization in Signal Processing and Data Science
 Hosted by [Johannes Maly](https://johannes-maly.github.io/) (LMU Munich) and [Sjoerd Dirksen](https://www.researchgate.net/profile/Sjoerd-Dirksen) (Ultrecht University)
