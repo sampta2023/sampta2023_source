@@ -11,4 +11,6 @@ We have a [Call for Papers](https://sampta2023.github.io/call-for-papers/) on sa
 
 Our [Plenary Speakers](https://sampta2023.github.io/speakers/) will include Coralia Cartis, Rebecca Willett, and Mark Iwen, among many others. See [our full list here](https://sampta2023.github.io/speakers/).
 
-Further details (including sessions, and a detailed schedule) are coming soon. We'll keep this page updated with the latest details.
+Registration is [open here](https://web.cvent.com/event/903a729f-b298-40ca-a060-3f0447be7bbc/summary) until July 1st.
+
+Further details (including a detailed schedule) are coming soon. We'll keep this page updated with the latest details.
