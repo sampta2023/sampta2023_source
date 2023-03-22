@@ -10,7 +10,7 @@ menu:
 Our plenary speakers will include:
 
 - [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) (Oxford)
-- [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html)
+- [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (LMU)
 - [Dan Spielman](http://cs.yale.edu/homes/spielman/) (Yale)
 - [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins)
 - [Samory Kpotufe](http://www.columbia.edu/~skk2175/) (Columbia University)
