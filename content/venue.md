@@ -4,7 +4,7 @@ title: Venue
 date: 2023-03-25
 menu:
   main:
-	weight: 1
+    weight: 1
 ---
 
 SampTA's presentations and special sessions will be in the Cohen Auditorium at the Yale School of Medicine (that's at 230 South Frontage Road). [Here's how to find the auditorium](http://campuspress-test.yale.edu/cnspy/directions-to-cohen-auditorium/).
