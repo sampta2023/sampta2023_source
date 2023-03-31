@@ -61,7 +61,7 @@ The 14th annual conference on Sampling Theory and Applications is an interdiscip
 - quantum computing and quantum learning
 - operator and functional analytic methods related to the above topics
 
-Contributions from authors attending the SampTA conferences are usually published in [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp). 
+Contributions from authors attending the SampTA conferences will be published in [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp). 
 
 Our submission instructions and review process follow standard [NeurIPS Guidelines](https://neurips.cc/Conferences/2022/CallForPapers).
 
@@ -87,17 +87,13 @@ Submissions must be anonymized and carefully stripped of identifying information
 
 Submissions can be created and managed through our [Open Review page](https://openreview.net/group?id=SampTA/2023/Conference).
 
-## Abstract Submission
-
-Abstracts must be submitted a week before the full submission deadline. Small edits to the title and abstract are permitted, but submissions whose abstracts are substantively changed may be rejected without further consideration. The author list can be changed until the full paper deadline, after which authors may be reordered, but not added or removed without special permission.
-
 ## Supplementary Material
 
 You may include up to 100MB of supplementary material (appendices, proofs, data, source code), in either PDF or ZIP format. Take care that this is anonymized! Reviewers have no obligation to review the supplementary material.
 
 ## Preprints
 
-You are allowed to distribute non-anonymous preprints of work submitted to SamPTA.
+You are allowed to distribute non-anonymous preprints of work submitted to SamPTA, and may also submit work to SampTA that has been previously distributed on non-anonymous non-peer reviewed websites (like arXiv).
 
 ## Author Responses
 
