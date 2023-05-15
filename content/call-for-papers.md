@@ -11,7 +11,7 @@ menu:
 
 Full paper submission and co-author registration deadline: **April 01, 2023 AoE** (Note: previously, there were separate deadlines for the abstract and paper submission. These are now combined, and the deadline has been extended. You needn't submit anything before April 1st.)
 
-Author notification: **Wednesday May 10, 2023 AoE**
+Author notification: May 10, 2023 AoE (Note: We are still waiting for finalization of some reviews, and are working to get the author notifications out as soon as possible. The author response window will be extended to compensate for this delay.)
 
 Camera-ready, poster, and video submission: **Wednesday May 31, 2023 AoE**
 
