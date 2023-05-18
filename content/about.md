@@ -18,7 +18,7 @@ Our [Plenary Speakers](https://sampta2023.github.io/speakers/) will include Cora
 
 We are technically-cosponsored by the IEEE Signal Processing Society.
 
-<img src = "IEEE_SPS_logo.jpg" alt="IEEE SPS technical-cosponsorship logo" style="height:100pt; width:auto;">
+<img src = "http://sampta2023.github.io/uploads/IEEE_SPS_logo.jpg" alt="IEEE SPS technical-cosponsorship logo" style="height:100pt; width:auto;">
 
 
 ## About SampTA
