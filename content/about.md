@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 2022-09-01
+date: 2023-05-18
 menu:
   main:
     weight: 1
@@ -10,19 +10,23 @@ menu:
 # SampTA 2023
 ## 14th International conference on **Sampling Theory and Applications**
 
-This year's <i> Sampling Theory and Applications </i> conference will be held **at Yale University from July 10-14th, 2023.**
+This year's <i> Sampling Theory and Applications </i> conference will be held at Yale University from July 10-14th, 2023. [Registration is open until July 1st.](https://web.cvent.com/event/903a729f-b298-40ca-a060-3f0447be7bbc/summary). 
+<!-- 
+We have a [Call for Papers](https://sampta2023.github.io/call-for-papers/) on sampling theory, signal and image processing, and data analysis. Papers accepted by SampTA will be published in a special issue of IEEE Xplore. -->
 
-We have a [Call for Papers](https://sampta2023.github.io/call-for-papers/) on sampling theory, signal and image processing, and data analysis. Papers accepted by SampTA will be published in a special issue of [Sampling Theory, Signal Processing, and Data Analysis](https://www.springer.com/journal/43670/aims-and-scope).
+Our [Plenary Speakers](https://sampta2023.github.io/speakers/) will include Coralia Cartis, Rebecca Willett, and Mark Iwen, among many others. In addition, we have eight special sessions on topics including manifold learning, randomized algorithms, sampling theory in neuroscience, and more. See [our full list here](https://sampta2023.github.io/speakers/).
 
-Our [Plenary Speakers](https://sampta2023.github.io/speakers/) will include Coralia Cartis, Rebecca Willett, and Mark Iwen, among many others. See [our full list here](https://sampta2023.github.io/speakers/).
+We are technically-cosponsored by the IEEE Signal Processing Society.
 
-Further details (including sessions, and a detailed schedule) are coming soon. We'll keep this page updated with the latest details.
+<img src = "IEEE_SPS_logo.jpg" alt="IEEE SPS technical-cosponsorship logo" style="height:100pt; width:auto;">
+
 
 ## About SampTA
 
-SampTA (Sampling Theory and Applications) is a biennial interdisciplinary conference for mathematicians, engineers, and applied scientists. The main purpose of SampTA is to exchange recent advances in sampling theory and to explore new trends and directions in the related areas of application. The conference focuses on such fields as signal processing and image processing, coding theory, control theory, real analysis and complex analysis, harmonic analysis, and the theory of differential equations. SampTA features plenary talks by prominent speakers, special sessions on selected topics reflecting the current trends in sampling theory and its applications to the engineering sciences, as well as regular sessions about traditional topics in sampling theory. Contributions from authors attending the SampTA conferences are usually published in special issues of Sampling Theory in Signal and Image Processing, an international journal dedicated to sampling theory and its applications. The proceedings of SampTA from 2015 on are indexed in IEEE Xplore.
+SampTA (Sampling Theory and Applications) is a biennial interdisciplinary conference for mathematicians, engineers, and applied scientists. The main purpose of SampTA is to exchange recent advances in sampling theory and to explore new trends and directions in the related areas of application. The conference focuses on such fields as signal processing and image processing, coding theory, control theory, real analysis and complex analysis, harmonic analysis, and the theory of differential equations. SampTA features plenary talks by prominent speakers, special sessions on selected topics reflecting the current trends in sampling theory and its applications to the engineering sciences, as well as regular sessions about traditional topics in sampling theory. Contributions from authors attending the SampTA conferences are usually published in IEEE Xplore
 
 The SampTA conference series began as a small workshop in 1995 in Riga, Latvia, but the meetings grew into full-fledged conferences attracting an even mix of mathematicians and engineers as the interest in sampling theory and its many applications blossomed. This even mix makes the SampTA meetings unique in the scientific community. The conference organization is headed by an international steering committee consisting of prominent mathematicians and engineers, and a technical committee responsible for the conference program.
+
 
 ## Contact
 Get in touch with the organizers by emailing [sampta2023@proton.me](mailto:sampta2023@proton.me)
@@ -59,11 +63,11 @@ Riga, Latvia, September 20– 22, 1995
 
 [Smita Krishnaswamy](https://www.krishnaswamylab.org/members) (Yale University, USA)
 
+[Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
+
 [Ian Adelstein](https://sites.google.com/view/adelstein) (Yale University, USA)
 
 [Guy Wolf](http://guywolf.org) (Université de Montréal, Canada)
-
-[Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany)
 
 ## Technical Chairs of SampTA 2023
 
