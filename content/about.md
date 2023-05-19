@@ -16,9 +16,9 @@ We have a [Call for Papers](https://sampta2023.github.io/call-for-papers/) on sa
 
 Our [Plenary Speakers](https://sampta2023.github.io/speakers/) will include Coralia Cartis, Rebecca Willett, and Mark Iwen, among many others. In addition, we have eight special sessions on topics including manifold learning, randomized algorithms, sampling theory in neuroscience, and more. See [our full list here](https://sampta2023.github.io/speakers/).
 
-We are technically-cosponsored by the IEEE Signal Processing Society.
+We are technically co-sponsored by the IEEE Signal Processing Society.
 
-![IEEE Logo](http://sampta2023.github.io/uploads/IEEE_SPS_logo.jpg)
+![IEEE Logo](http://sampta2023.github.io/uploads/IEEE_SPS_logo_small.jpg)
 
 <img src="http://sampta2023.github.io/uploads/IEEE_SPS_logo.jpg" width="150" height="110"> 
 
