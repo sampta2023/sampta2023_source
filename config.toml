@@ -2,6 +2,13 @@ baseURL = "https://sampta2023.github.io/"
 languageCode = "en-us"
 theme = "hyde"
 title = "SAMPTA 2023"
+
+markdown = kramdown
+
+[kramdown]
+  parse_span_html = true
+  parse_block_html = true
+
 [params]
 	description = "Sampling Theory and Applications Conference. July 10-14 at Yale."
 	disqusShortname = ""
