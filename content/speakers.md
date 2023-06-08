@@ -77,4 +77,15 @@ A common challenge in signal processing and data science is that digital process
 
 This session will feature [Sinan Gunturk](https://www.math.nyu.edu/people/profiles/GUNTURK_Sinan.html) (Courant Institute), [Laurent Jacques](https://laurentjacques.gitlab.io) (UC Louvain), [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/) (UCSD), [Hanna Veselovska](https://annaveselovska.com/) (Technical University of Munich)
 
+## Event-driven sampling, time-encoding and sampling with integral transforms
+Hosted by [Jose Luis Romero](https://sites.google.com/site/jlromeroresearch/) (University of Vienna) and [Diana Carbajal](https://sites.google.com/view/dianacarbajal/home) (University of Vienna).
 
+This special session will feature five invited talks:
+- Pseudo-inversion of integration-based time encoding using POCS  ([Nguyen T. Thao](https://ieeexplore.ieee.org/author/37269394400), [Dominik Rzepka](https://deepai.org/profile/dominik-rzepka), Marek Miskowicz)
+- Iterative reconstruction of bandlimited signals from nonuniform samples by sliding periodization of nonuniformity (Nguyen T. Thao, Dominik Rzepka, Marek Miskowicz) 
+- Model-Driven Quantization for Time Encoding Machines ([Dorian Florescu](https://www.imperial.ac.uk/people/d.florescu))
+- Sampling theorems with derivatives in shift-invariant spaces generated  
+by exponential B-splines  ([Irina Shafkulovska](https://homepage.univie.ac.at/irina.shafkulovska/), [Karlheinz Gröchenig](https://homepage.univie.ac.at/karlheinz.groechenig/))
+- Sampling theorems in spaces of variable bandwidth generated via Wilson basis ([Beatrice Andreolli](https://homepage.univie.ac.at/beatrice.andreolli/), Karlheinz Gröchenig)
+
+ 
