@@ -48,7 +48,7 @@ Hosted by [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (
 
 Prior work in optimization has focused on the function that is being optimized. However, in recent years, there has been a shift towards looking at the geometry of the data as well. By appropriately incorporating the geometry of the data, we can get better convergence, change the local optima that we converge to, or better understand the properties of the optima that we converge to. In this mini-symposia, we invite speakers to talk about recent advances in optimization that incorporate the geometry of the data to solve or understand the optimization problem. 
 
-This sessions will feature [Joyce Chew](https://joycechew.github.io/), [Nicholas Garcia Trillos](https://stat.wisc.edu/staff/trillos-nicolas-garcia/) (UW Madison), [Guido Montufar](https://www.math.ucla.edu/~montufar/) (UCLA), and [Melanie Weber](http://melanie-weber.com) (Harvard).
+This sessions will feature [Nicholas Garcia Trillos](https://stat.wisc.edu/staff/trillos-nicolas-garcia/) (UW Madison), [Guido Montufar](https://www.math.ucla.edu/~montufar/) (UCLA), and [Melanie Weber](http://melanie-weber.com) (Harvard).
 
 
 ## Randomized Algorithms for Complex Data
@@ -63,8 +63,7 @@ Hosted by [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UC
 
 Recent years have seen rapid growth in the development of data science and machine learning techniques for graph- and manifold-structured data. These techniques typically aim to find and utilize the (often hidden) intrinsic geometric structure of the data set. This session will feature several examples of such techniques which are based on methods initially developed in the context of graph signal processing. 
 
-This session will feature [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis), [Anna Little](https://www.anna-little.com) (University of Utah), and [Luana Ruiz](https://sites.google.com/view/luana-ruiz/home) (Johns Hopkins).
-
+This session will feature [Joyce Chew](https://joycechew.github.io/), [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis), [Anna Little](https://www.anna-little.com) (University of Utah), and [Luana Ruiz](https://sites.google.com/view/luana-ruiz/home) (Johns Hopkins).
 
 ## Sampling Theory in Neuroscience
 Hosted by [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany) and [Guillaume Lajoie](https://www.guillaumelajoie.com/) (University of Montreal).
