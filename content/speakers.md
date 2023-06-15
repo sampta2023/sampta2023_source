@@ -80,6 +80,8 @@ This session will feature [Sinan Gunturk](https://www.math.nyu.edu/people/profil
 ## Event-driven sampling, time-encoding and sampling with integral transforms
 Hosted by [Jose Luis Romero](https://sites.google.com/site/jlromeroresearch/) (University of Vienna) and [Diana Carbajal](https://sites.google.com/view/dianacarbajal/home) (University of Vienna).
 
+The focal point of the session is event-driven sampling and time-encoding machines. These sampling schemes are motivated by the need for energy efficiency and rely on capturing the times where significant events of a signal occur, rather than following a clock-based pattern. Sampling events are often modeled by level sets of certain integral transforms and lead to non-uniform sampling geometries. The session also seeks to highlight technical parallelisms between event-driven sampling on the one hand, and the theory of non-uniform sampling supplemented with derivatives and sampling strategies adapted to varying bandwidth, on the other.
+
 This special session will feature five invited talks:
 - Pseudo-inversion of integration-based time encoding using POCS  ([Nguyen T. Thao](https://ieeexplore.ieee.org/author/37269394400), [Dominik Rzepka](https://deepai.org/profile/dominik-rzepka), Marek Miskowicz)
 - Iterative reconstruction of bandlimited signals from nonuniform samples by sliding periodization of nonuniformity (Nguyen T. Thao, Dominik Rzepka, Marek Miskowicz) 
