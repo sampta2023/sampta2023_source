@@ -36,7 +36,7 @@ Hosted by [Longxiu Huang](http://longxiuhuang.com/) (Michigan State University) 
 
 This symposium will delve into the realm of graph-based signal and image processing. Experts from this field will come together to share their latest research findings, discuss current challenges and opportunities, and network with their peers. The event will cover a range of topics including signal and image processing techniques, sampling and reconstruction methods, graph neural networks, and their applications. With a focus on both theory and practical applications, this symposium promises to provide valuable insights and knowledge for those interested in these cutting-edge and rapidly growing areas.
 
-This session will feature [Jin Qing](https://math.as.uky.edu/users/jqi229) (University of Kentucky), [Kiryung Lee](https://ece.osu.edu/people/lee.8763) (Ohio State), [Selin Aviyente](https://www.egr.msu.edu/people/profile/aviyente), and [Gal Mishne](http://mishne.ucsd.edu/) (UCSD).
+This session will feature [Jin Qing](https://math.as.uky.edu/users/jqi229) (University of Kentucky), [Kiryung Lee](https://ece.osu.edu/people/lee.8763) (Ohio State), [Selin Aviyente](https://www.egr.msu.edu/people/profile/aviyente) (Michigan State University), and [Gal Mishne](http://mishne.ucsd.edu/) (UCSD).
 
 ## Methods for Low Rank Matrices and Tensors
 Hosted by [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt) and [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine),
