@@ -19,5 +19,5 @@ title = "SAMPTA 2023"
 [Menus]
   main = [
       {Name = "Submit your paper", URL = "https://openreview.net/group?id=SampTA/2023/Conference"},
-      {Name = "Conference Registration", URL = "https://web.cvent.com/event/903a729f-b298-40ca-a060-3f0447be7bbc/summary"}
+      {Name = "Conference Registration", URL = "https://web.cvent.com/event/903a729f-b298-40ca-a060-3f0447be7bbc/summary", Weight = -100}
   ]
