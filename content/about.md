@@ -93,8 +93,6 @@ Yue Lu (Harvard University, USA)
 
 ## Steering Committee
 
-Ahmed Zayed, Chair (DePaul University, USA),
-
 Akram Aldroubi  (Vanderbilt University, USA),
 
 John Benedetto  (University of Maryland, USA),
