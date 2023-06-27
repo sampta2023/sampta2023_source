@@ -10,7 +10,7 @@ menu:
 # SampTA 2023
 ## 14th International conference on **Sampling Theory and Applications**
 
-This year's <i> Sampling Theory and Applications </i> conference will be held at Yale University from July 10-14th, 2023. [Registration is open until July 1st.](https://web.cvent.com/event/903a729f-b298-40ca-a060-3f0447be7bbc/summary). 
+This year's <i> Sampling Theory and Applications </i> conference will be held at Yale University from July 10-14th, 2023. [Registration is open until July 14.](https://web.cvent.com/event/903a729f-b298-40ca-a060-3f0447be7bbc/summary). 
 <!-- 
 We have a [Call for Papers](https://sampta2023.github.io/call-for-papers/) on sampling theory, signal and image processing, and data analysis. Papers accepted by SampTA will be published in a special issue of IEEE Xplore. -->
 
