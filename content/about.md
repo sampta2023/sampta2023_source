@@ -105,7 +105,7 @@ Gitta Kutyniok  (TU Berlin, Germany),
 
 Farokh Marvasti  (Sharif University of Technology, Iran),
 
-Götz Pfander (Catholic University Eichstätt-Ingolstadt, Germany)[chair],
+Götz Pfander (**Chair**; Catholic University Eichstätt-Ingolstadt, Germany)
 
 Bruno Torrésani  (Aix-Marseille Université, France),
 
