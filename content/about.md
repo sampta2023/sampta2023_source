@@ -68,7 +68,7 @@ Riga, Latvia, September 20– 22, 1995
 
 **Publication Chair**: [Guy Wolf](http://guywolf.org) (Université de Montréal, Canada)
 
-[Ian Adelstein](https://sites.google.com/view/adelstein) (Yale University, USA)
+**Local Conference Support**: [Ian Adelstein](https://sites.google.com/view/adelstein) (Yale University, USA)
 
 ## Technical Chairs of SampTA 2023
 
@@ -105,7 +105,7 @@ Gitta Kutyniok  (TU Berlin, Germany),
 
 Farokh Marvasti  (Sharif University of Technology, Iran),
 
-Götz Pfander (**Chair**; Catholic University Eichstätt-Ingolstadt, Germany)
+Götz Pfander (**Chair of the Steering Committee**; Catholic University Eichstätt-Ingolstadt, Germany)
 
 Bruno Torrésani  (Aix-Marseille Université, France),
 
