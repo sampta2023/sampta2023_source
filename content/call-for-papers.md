@@ -13,7 +13,7 @@ Full paper submission and co-author registration deadline: **April 01, 2023 AoE
 
 Author notification: May 10, 2023 AoE 
 
-Camera-ready paper and poster submission: **Saturday July 1, 2023 AoE**
+Camera-ready paper submission: **Saturday July 1, 2023 AoE**
 
 The site will start accepting submissions on: **Friday** **January 9th, 2023**
 
