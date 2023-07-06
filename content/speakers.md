@@ -61,7 +61,7 @@ Featuring:
 - [Yizhe Zhu](https://sites.google.com/uci.edu/yizhezhu) (UC Irvine)
 
 ## Data Geometry and Optimization
-Hosted by [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) and [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA).
+Hosted by [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal?pli=1) (UCLA) and [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (Boise State University).
 
 Prior work in optimization has focused on the function that is being optimized. However, in recent years, there has been a shift towards looking at the geometry of the data as well. By appropriately incorporating the geometry of the data, we can get better convergence, change the local optima that we converge to, or better understand the properties of the optima that we converge to. In this mini-symposia, we invite speakers to talk about recent advances in optimization that incorporate the geometry of the data to solve or understand the optimization problem. 
 
@@ -85,11 +85,11 @@ Featuring:
 
 ## Machine Learning and Signal Processing on Graphs and Manifolds
 
-Hosted by [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (UCLA).
+Hosted by [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (Boise State University).
 
 Recent years have seen rapid growth in the development of data science and machine learning techniques for graph- and manifold-structured data. These techniques typically aim to find and utilize the (often hidden) intrinsic geometric structure of the data set. This session will feature several examples of such techniques which are based on methods initially developed in the context of graph signal processing. 
 
-This session will feature [Joyce Chew](https://joycechew.github.io/), [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis), [Anna Little](https://www.anna-little.com) (University of Utah), and [Luana Ruiz](https://sites.google.com/view/luana-ruiz/home) (Johns Hopkins).
+This session will feature [Joyce Chew](https://joycechew.github.io/) (UCLA), [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis), [Anna Little](https://www.anna-little.com) (University of Utah), and [Luana Ruiz](https://sites.google.com/view/luana-ruiz/home) (Johns Hopkins).
 
 ## Sampling Theory in Neuroscience
 
