@@ -108,12 +108,12 @@ Hosted by [Johannes Maly](https://johannes-maly.github.io/) (LMU Munich) and [Sj
 
 A common challenge in signal processing and data science is that digital processing requires to quantize all involved quantities to a finite alphabet. Whereas many numerical methods with robust guarantees remain reliable under such perturbations if the quantization alphabet is sufficiently large, in modern large-scale applications it is often necessary to apply extremely coarse quantization. This setting requires tailored algorithms and novel mathematical methods to analyze their performance. In this special session we will bring together experts from applied mathematics and engineering to discuss recent advances in the theory of quantization.
 
-This session will feature:
+This session will feature four invited talks:
 
-- [Sinan Gunturk](https://www.math.nyu.edu/people/profiles/GUNTURK_Sinan.html) (Courant Institute)
-- [Laurent Jacques](https://laurentjacques.gitlab.io) (UC Louvain)
-- [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/) (UCSD)
-- [Hanna Veselovska](https://annaveselovska.com/) (Technical University of Munich)
+1. Near-optimality of $\Sigma\Delta$ quantization for $L^2$-approximation with polynomials in Bernstein form  ([Sinan Gunturk](https://www.math.nyu.edu/people/profiles/GUNTURK_Sinan.html), Courant Institute)
+2. Learning Signal Spaces from Incomplete Binary Measurements ([Laurent Jacques](https://laurentjacques.gitlab.io), UC Louvain)
+3. Algorithms and Theory for Quantizing Neural Networks ([Rayan Saab](https://mathweb.ucsd.edu/~rsaab/), UCSD)
+4. Digital Halftoning via Mixed-Order Weighted Sigma-Delta Modulation ([Hanna Veselovska](https://annaveselovska.com/), Technical University of Munich)
 
 ## Event-driven sampling, time-encoding and sampling with integral transforms
 
