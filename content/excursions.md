@@ -41,7 +41,7 @@ In Sterling Memorial Library, for instance, the gargoyles hold pens and books, t
 ![Yale's Harkness Tower](http://sampta2023.github.io/uploads/harkness-tower.jpeg) 
 *Yale's Harkness Tower, photo by Kincaid MacDonald*
 
-After witnessing this cluster of collegiate-gothic monuments, you can walk up Hillhouse Avenue, a street shaded by towering elms and stately buildings, which Mark Twain called "the most beautiful street in America." At the top is the expanse of shining glass and towering brick students call "Science Hill". 
+After witnessing this cluster of collegiate-gothic monuments, you can walk up Hillhouse Avenue, a street shaded by towering elms and stately buildings, which Mark Twain called "the most beautiful street in America." At the top is the expanse of shining glass and towering brick known to students as "Science Hill". 
 
 # East Rock
 From the conference venue, the East Rock summit is 3.5 miles of mostly flat walking through the Yale campus and then onto paved neighborhood streets. There is a short, strenuous climb at the end, ascending 300 vertical feet up a series of giant stone steps. The spectacular views from the top look out over New Haven and the Long Island Sound. 

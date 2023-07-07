@@ -3,9 +3,8 @@ layout: page
 title: Dinner
 date: 2023-07-07
 menu:
-  main:
-	weight: 1
-
+	main:
+		weight: 1
 ---
 
 Dinner on Wednesday will be at the Madison Beach hotel from 6-7pm, and you must **register for dinner by Day 1**.
