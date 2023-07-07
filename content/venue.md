@@ -7,7 +7,15 @@ menu:
     weight: 1
 ---
 
-SampTA's presentations and special sessions will be in the Cohen Auditorium at the Yale School of Medicine (that's at 230 South Frontage Road). [Here's how to find the auditorium](http://campuspress-test.yale.edu/cnspy/directions-to-cohen-auditorium/).
+SampTA's presentations and special sessions will take place in two
+different lecture halls:
+
+- Our **primary venue** is the Cohen Auditorium at the Yale School of
+  Medicine (that's at 230 South Frontage Road). [Here's how to find the
+  auditorium](http://campuspress-test.yale.edu/cnspy/directions-to-cohen-auditorium/).
+
+- Our **secondary venue** is the Hope 216 Auditorium. [Here's where to find the
+  auditorium](https://www.campus-maps.com/yale-university/hope-memorial-building-315-cedar-st/).
 
 There are half a dozen hotels within a five-minute walk of the auditorium, all nestled around the heart of Yale's campus.
 - [The Blake Hotel](theblakenewhaven.com) (2 blocks away)
