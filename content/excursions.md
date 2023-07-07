@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Excursions
 date: 2023-07-07
 menu:
   main:
