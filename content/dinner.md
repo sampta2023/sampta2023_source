@@ -11,7 +11,10 @@ Dinner on Wednesday will be at the Madison Beach Hotel from 6-7pm, and you must 
 The hotel's address is:
 
 > Madison Beach Hotel. 
-> 94 W Wharf Rd, Madison, CT 06443, United States
+> 
+> 94 W Wharf Rd, Madison, 
+> 
+> CT 06443, United States
 
 **Note: This is in the nearby town of Madison and not in New Haven.** 
 
