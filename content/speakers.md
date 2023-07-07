@@ -6,9 +6,12 @@ menu:
   main:
     weight: 1
 ---
-<!-- Mathjax -->
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> 
+<!-- Katex for latex rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css" integrity="sha384-GvrOXuhMATgEsSwCs4smul74iXGOixntILdUW9XmUC6+HX0sLNAK3q71HotJqlAn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js" integrity="sha384-cpW21h6RZv/phavutF+AuVYrr+dA8xD9zs6FwLpaCct6O9ctzYFfFr4dgmgccOTx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
 
 # Plenary Speakers
 
@@ -114,7 +117,7 @@ A common challenge in signal processing and data science is that digital process
 
 This session will feature four invited talks:
 
-1. Near-optimality of $\Sigma\Delta$ quantization for $L^2$-approximation with polynomials in Bernstein form  ([Sinan Gunturk](https://www.math.nyu.edu/people/profiles/GUNTURK_Sinan.html), Courant Institute)
+1. Near-optimality of \\(\Sigma\Delta\\) quantization for \\(L^2\\)-approximation with polynomials in Bernstein form  ([Sinan Gunturk](https://www.math.nyu.edu/people/profiles/GUNTURK_Sinan.html), Courant Institute)
 2. Learning Signal Spaces from Incomplete Binary Measurements ([Laurent Jacques](https://laurentjacques.gitlab.io), UC Louvain)
 3. Algorithms and Theory for Quantizing Neural Networks ([Rayan Saab](https://mathweb.ucsd.edu/~rsaab/), UCSD)
 4. Digital Halftoning via Mixed-Order Weighted Sigma-Delta Modulation ([Hanna Veselovska](https://annaveselovska.com/), Technical University of Munich)
