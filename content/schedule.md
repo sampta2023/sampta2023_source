@@ -14,4 +14,13 @@ Please find the current schedule [here](https://docs.google.com/spreadsheets/d/1
 
 </div>
 
+Note that the schedule contains two different venues (indicated by **P**
+and **S**, respectively):
+
+- P: Primary Venue: Cohen Auditorium (https://tinyurl.com/samptacohen)
+- S: Secondary Venue: Hope 216 Lecture Hall (https://tinyurl.com/samptaHope)
+
+Most of our time, we will be in the **Primary Venue**, but for parallel
+tracks, we have an additional secondary venue.
+
 <!--more-->
