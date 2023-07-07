@@ -1,9 +1,11 @@
 ---
-title: Excursions
+layout: page
+title: About
 date: 2023-07-07
 menu:
   main:
-	weight: 1
+    weight: 1
+
 ---
 
 ## Conference Excursions
