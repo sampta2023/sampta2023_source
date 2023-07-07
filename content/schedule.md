@@ -104,3 +104,16 @@ instructions:
 3. Once logged in, scroll to the bottom of your confirmation page, click the “Modify Registration” button and navigate to the Admission Items page. 
 4. On the Admission Items, you will see a button that says “Conference Dinner”
 5. Once you have added the Conference Dinner, click “Next” and continue through the pages to submit the remaining payment of $50. 
+
+
+# Virtual Attendees
+For those of you who are virtually registered, here are the zoom links:
+- [Main Meetings/Special Session Track 1/Virtual Posters](https://zoom.us/j/94573213828)
+- [Special Session Track 2](https://yale.zoom.us/j/92949282124)
+
+If you have any questions please reach out to the organizers. We look forward to meeting you soon.  
+
+Smita Krishnaswamy (smita.krishnaswamy@yale.edu)
+Bastian Rieck (bastian@rieck.me)
+Guy Wolf (guy.wolf@mila.quebec)
+Ian Adelstein (ian.adelstein@yale.edu)
