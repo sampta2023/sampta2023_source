@@ -8,8 +8,6 @@ menu:
 
 ---
 
-## Conference Excursions
-
 SAMPTA 2023 will host three excursions on Wednesday, between 1:00pm-3:30pm:
 1. A guided tour of the Yale Art Gallery (capped at 30 people)
 2. A tour of Yale's historic campus (capped at 75 people)
