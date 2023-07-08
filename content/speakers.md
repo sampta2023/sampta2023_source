@@ -52,10 +52,10 @@ This symposium will delve into the realm of graph-based signal and image process
 
 This session will feature:
 
-- [Selin Aviyente](https://www.egr.msu.edu/people/profile/aviyente) (Michigan State University)
-- [Kiryung Lee](https://ece.osu.edu/people/lee.8763) (Ohio State)
-- [Gal Mishne](http://mishne.ucsd.edu/) (UCSD)
-- [Jing Qin](https://math.as.uky.edu/users/jqi229) (University of Kentucky)
+- [Selin Aviyente](https://www.egr.msu.edu/people/profile/aviyente) (Michigan State University): **Low-rank and Smooth Tensor Recovery on Cartesian Product Graphs**
+- [Kiryung Lee](https://ece.osu.edu/people/lee.8763) (Ohio State): **Stability Analysis of Resolving Pulses of Unknown Shape from Compressive Fourier Measurements**
+- [Gal Mishne](http://mishne.ucsd.edu/) (UCSD): **Graph Laplacian Learning with Exponential Family Noise**
+- [Jin Qing](https://math.as.uky.edu/users/jqi229) (University of Kentucky): **Fast Dual-Graph Regularized Background Foreground Separation**
 
 ## Methods for Low Rank Matrices and Tensors
 Hosted by [Dominik Stöger](https://dominiksto.github.io/) (KU Eichstätt-Ingolstadt) and [Anna Ma](https://www.math.uci.edu/node/36395) (University of California Irvine),
