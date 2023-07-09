@@ -34,7 +34,7 @@ Day 2 will have the same scheduling as Day 1. However, the poster session will b
 
 On Day 3 we are having our EXCURSIONS and CONFERENCE DINNER. 
 
-The excursion on Wednesday will be between 1:00pm-3:30pm; the dinner from 6-7pm. Details are on the below pages. Note that we need headcounts - so please register for both before Monday, July 14!
+The excursion on Wednesday will be between 1:00pm-3:30pm; the dinner from 6-7pm. Details are on the below pages. Note that we need headcounts - so please register for both before Monday, July 10!
 - Excursions: https://sampta2023.github.io/excursions/
 - Dinner: https://sampta2023.github.io/dinner/
 
