@@ -19,6 +19,7 @@ SAMPTA 2023 will host three excursions on Wednesday, between 1:00pm-3:30pm:
 - Form for Guided Hike: https://forms.gle/iurz6ZSH2jnUyrYd9
 
 # Yale Art Gallery Guided Tour
+**Meet at 1111 Chapel St (at York), New Haven. The Tour starts at 1:30pm.**
 
 Yale's well-endowed University Art Gallery features exhibitions drawn from a collection of over 180,000 relics. 
 As their [webpage attests](https://artgallery.yale.edu/):
@@ -34,6 +35,7 @@ In addition to the permanent collection described above, the YUAG currently has 
 3. "Sol LeWitt: A Wall Drawing Retrospective" ([details](https://artgallery.yale.edu/exhibitions/exhibition/sol-lewitt-wall-drawing-retrospective))
 
 # Yale Tour
+**Meet at the Yale Visitor Center on 149 Elm Street, New Haven. The tour starts at 1:30pm.**
 
 Yale's campus embodies a certain self-conscious grandeur. Its most iconic buildings were designed after (or, in the case of Sterling Memorial Library, *as*) cathedrals -- but dedicated to what philosopher Robert Pirsig called "The Church of Reason". 
 In Sterling Memorial Library, for instance, the gargoyles hold pens and books, their leering expressions perfectly matching the feelings of those students studying for midterms.
