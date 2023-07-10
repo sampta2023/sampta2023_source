@@ -104,10 +104,11 @@ Hosted by [Bastian Rieck](https://bastian.rieck.me) (Helmholtz Munich, Germany) 
 
 Featuring:
 
-- [Danilo Bzdok](https://www.mcgill.ca/bbme/danilo-bzdok) (McGill)
+- Scaling behavior in big-data neuroscience towards precision medicine, [Danilo Bzdok](https://www.mcgill.ca/bbme/danilo-bzdok) (McGill)
 - [Eva Dyer](https://bme.gatech.edu/bme/faculty/Eva-Dyer) (Georgia Tech)
-- [Kanaka Rajan](https://www.rajanlab.com/) (Icahn School of Medicine)
-- [Alex Williams](http://neurostatslab.org) (NYU & Flatiron Institute)
+- Quantifying and comparing neural manifold structure with limited samples, [Alex Williams](http://neurostatslab.org) (NYU & Flatiron Institute)
+- Modeling brain-wide neural recordings to extract behaviorally-relevant structure, [Matthew Perich](https://ma.ttperi.ch/) (UdeM)
+- Meta-Learning to leverage population data for personalized neurostimulation optimization, [Guillaume Lajoie](https://www.guillaumelajoie.com/) (UdeM)
 
 ## Quantization in Signal Processing and Data Science
 
