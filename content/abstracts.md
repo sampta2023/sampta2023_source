@@ -4,9 +4,7 @@ date: 2023-07-09
 menu:
   main:
     weight: 1
----
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css" integrity="sha384-ZPe7yZ91iWxYumsBEOn7ieg8q/o+qh/hQpSaPow8T6BwALcXSCS6C6fSRPIAnTQs" crossorigin="anonymous">
+---<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css" integrity="sha384-ZPe7yZ91iWxYumsBEOn7ieg8q/o+qh/hQpSaPow8T6BwALcXSCS6C6fSRPIAnTQs" crossorigin="anonymous">
 
 <!-- The loading of KaTeX is deferred to speed up page rendering -->
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.js" integrity="sha384-ljao5I1l+8KYFXG7LNEA7DyaFvuvSCmedUf6Y6JI7LJqiu8q5dEivP2nDdFH31V4" crossorigin="anonymous"></script>
@@ -23,7 +21,6 @@ menu:
 				delimiters: [
 				{left: '$$', right: '$$', display: true},
 				{left: '$', right: '$', display: false},
-				{left: '\(', right: '\)', display: false},
 				{left: '\[', right: '\]', display: true},
 				{left: "\begin{equation}", right: "\end{equation}", display: true},
 				{left: "\begin{align}", right: "\end{align}", display: true},
@@ -71,7 +68,7 @@ We discuss our new scattering networks for signals on simplicial complexes. Our 
 
 # The Littlewood problem and non-harmonic Fourier series
 ## Philippe Jaming, Karim Kellay, Chadi Saba
-The aim of this note is to prove a lower bound of the $L^1$-norm  of non-harmonic trigonometric polynomials of the form $$ C\sum_{j=1}^N\dfrac{|a_j|}{j}\leq \frac{1}{T}\int_{-T/2}^{T/2}igg|\sum_{j=1}^Na_je^{2i\pi\lambda_jt}\,igg|\mbox{d}t, $$ where $T\geq 72$, the constant $C$ is universal, $\lambda_j$ are real numbers with $\lambda_{j+1}-\lambda_j\geq 1$ and $a_j$ are complex numbers. This extends to the non-harmonic case the Littlewood conjecture as solved by McGehee, Pigno, Smith \cite{MPS} and Konyagin \cite{Kon} and was previously obtained by Nazarov \cite{Naz} for $T>1$ but with a non-explicit constant $C=C(T)$ that depends on $T$.
+The aim of this note is to prove a lower bound of the $L^1$-norm  of non-harmonic trigonometric polynomials of the form $$ C\sum_{j=1}^N\dfrac{|a_j|}{j}\leq \frac{1}{T}\int_{-T/2}^{T/2}igg|\sum_{j=1}^Na_je^{2i\pi\lambda_jt}\igg|\mbox{d}t, $$ where $T\geq 72$, the constant $C$ is universal, $\lambda_j$ are real numbers with $\lambda_{j+1}-\lambda_j\geq 1$ and $a_j$ are complex numbers. This extends to the non-harmonic case the Littlewood conjecture as solved by McGehee, Pigno, Smith (MPS) and Konyagin (Kon) and was previously obtained by Nazarov (Naz) for $T>1$ but with a non-explicit constant $C=C(T)$ that depends on $T$.
 
 
 # Machine Learning on Large-Scale Graphs: Graphon NNs and Learning by Transference
@@ -86,7 +83,7 @@ In this article, we address the challenge of solving the ill-posed reconstructio
 
 #  Quasi-analytic  directional  wavelet packets: applications to image processing
 ## Amir Averbuch, Valery Zheludev
-Recently, a versatile library of quasi-analytic  complex-valued wavelet packets (WPs) which originate from splines of arbitrary orders, was designed \cite{azn_pswq1}.  The real parts of the quasi-analytic  WPs (qWPs) are the regular spline-based orthonormal  WPs.   The imaginary parts, which are  slightly modified Hilbert transforms of the real parts, are the so-called complementary orthonormal  WPs, which, unlike the symmetric regular  WPs,  are  antisymmetric. Both regular and complementary WPs are well localized in time domain and their DFT spectra provide a variety of refined splits of the frequency  domain. The waveforms can have arbitrary number of vanishing moments.   Tensor products of 1D quasi-analytic  WPs (qWPs) provide a diversity of 2D waveforms oriented in multiple directions. The designed computational scheme  enables us to get fast and easy implementation of the qWP transforms. The shapes of real and imaginary parts of the qWPs can be regarded as  directional cosine waves with different frequencies modulated by  localized low-frequency signals. For example, the set of the fourth-level WPs comprises waveforms which are oriented in 314 different directions and are oscillating with 256 different frequencies. Various  combinations of qWPs form multiple frames in the 2D signal space.  The combination of the exceptional  properties of the designed  qWPs,  such as unlimited directionality and oscillating structure of the waveforms, vanishing moments and refined frequency  resolution, make them  a powerful tool for image processing  applications. The algorithms based on the qWPs proved to be competitive with the best existing methods in solving such classical  image processing  problems as denoising, inpainting and deblurring.  The qWP algorithms are  especially efficient for capturing   edges and fine texture and oscillating patterns even in severely degraded images.  Due to the above properties and next to unlimited  diversity of testing waveforms, the qWPs  have strong capabilities for extraction characteristic features from signals and images, which  are utilized in the image classification algorithms in conjunction with Support Vector Machines and Convolutional Neural Networks.
+Recently, a versatile library of quasi-analytic  complex-valued wavelet packets (WPs) which originate from splines of arbitrary orders, was designed (azn_pswq1).  The real parts of the quasi-analytic  WPs (qWPs) are the regular spline-based orthonormal  WPs.   The imaginary parts, which are  slightly modified Hilbert transforms of the real parts, are the so-called complementary orthonormal  WPs, which, unlike the symmetric regular  WPs,  are  antisymmetric. Both regular and complementary WPs are well localized in time domain and their DFT spectra provide a variety of refined splits of the frequency  domain. The waveforms can have arbitrary number of vanishing moments.   Tensor products of 1D quasi-analytic  WPs (qWPs) provide a diversity of 2D waveforms oriented in multiple directions. The designed computational scheme  enables us to get fast and easy implementation of the qWP transforms. The shapes of real and imaginary parts of the qWPs can be regarded as  directional cosine waves with different frequencies modulated by  localized low-frequency signals. For example, the set of the fourth-level WPs comprises waveforms which are oriented in 314 different directions and are oscillating with 256 different frequencies. Various  combinations of qWPs form multiple frames in the 2D signal space.  The combination of the exceptional  properties of the designed  qWPs,  such as unlimited directionality and oscillating structure of the waveforms, vanishing moments and refined frequency  resolution, make them  a powerful tool for image processing  applications. The algorithms based on the qWPs proved to be competitive with the best existing methods in solving such classical  image processing  problems as denoising, inpainting and deblurring.  The qWP algorithms are  especially efficient for capturing   edges and fine texture and oscillating patterns even in severely degraded images.  Due to the above properties and next to unlimited  diversity of testing waveforms, the qWPs  have strong capabilities for extraction characteristic features from signals and images, which  are utilized in the image classification algorithms in conjunction with Support Vector Machines and Convolutional Neural Networks.
 
 
 # Modulation Spaces and the Curse of Dimensionality
@@ -129,15 +126,10 @@ This article outlines sampling and frame expansions designed specifically for ul
 We study the problem of spatial concentration of vertex functions in the low spectrum of certain replacement  graphs obtained by replacing each vertex on a cycle with a hypercube $B_N$.   It is shown that for most  values of the bandlimit, one can identify a set of vectors that is complete in the corresponding Paley--Wiener space on the graph and are concentrated on a single copy of $B_N$ in the sense that at least half of the $\ell^2$-norm of each such vector is associated with a single copy of $B_N$.  Extent to which the techniques should extend to more general replacement products is discussed.
 
 
-# On the Extension and Sampling Theorems for the Coupled Fractional Fourier Transform
-## Ahmed I Zayed
-In 1980 a fractional version of the Fourier transform was introduced by V. Namias, but did not received much attention until the early 1990s when it was found to have numerous applications in optics and time-frequency representation.   The fractional Fourier transform, denoted by $F_{\theta}$  depends on a parameter $0\leq \theta \leq \pi/2,$ so that when $\theta=0,$ $F_0$ is the identity transformation and when $\theta=\pi/2,$ $F_{\pi/2}$ is the standard Fourier transform. The transform has been extended to higher dimensions by taking tensor products of one-dimensional transforms.  In 2018 the author of this article introduced  a novel generalization of the fractional Fourier transform to two dimensions, which is called the coupled fractional Fourier transform and is denoted by $F_{\alpha, \eta}.$  This transform depends on two independent angles $\alpha$ and  $\eta,$  with $ 0\leq \alpha, \eta \leq \pi/2,$  so that $F_{0,0}$ is the identity transformation and $F_{\pi/2, \pi/2},$ is the two-dimensional Fourier transform. For other values of $\alpha$ and $\eta ,$ we obtain other interesting configurations of the transform. One immediate application of this transform is in time-frequency representation because of its close relationship  to the Wigner distribution function.   In this talk we will discuss sampling theorems and extensions of this transform to spaces of generalized functions.
-
-
 # Fourier Interpolation with Magnitude Only
 ## Qijia Jiang
 In this paper we prove that all even Schwartz functions $f\colon \mathbb{R}
-ightarrow \mathbb{R}$ are uniquely determined by their values at $\{ert \hat{f}(\pm\sqrt{n})ert ,f(\pm\sqrt{n/2})\}$ for $n\geq 0$ indexing the non-negative integers.
+ightarrow \mathbb{R}$ are uniquely determined by their values at $\ert \hat{f}(\pm\sqrt{n})ert ,f(\pm\sqrt{n/2})\}$ for $n\geq 0$ indexing the non-negative integers.
 
 
 # Scalable symmetric Tucker tensor decomposition 
@@ -152,7 +144,7 @@ The remarkable performance of deep neural networks depends on the availability o
 
 # A non-backtracking method for long matrix completion
 ## Yizhe Zhu
-We consider the problem of rectangular matrix completion in the regime where the matrix $M$  of size $n	imes m$ is long, i.e., the aspect ratio $m/n$ diverges to infinity. Such matrices are of particular interest in the study of tensor completion, where they arise from the unfolding of a low-rank tensor. In the case where the sampling probability is $rac{d}{\sqrt{mn}}$, we propose a new algorithm for recovering the singular values and left singular vectors of the original matrix based on a variant of the standard non-backtracking operator of a suitably defined bipartite graph. We show that when $d$ is above a Kesten-Stigum-type sampling threshold, our algorithm recovers a correlated version of the singular value decomposition of $M$ with quantifiable error bounds.
+We consider the problem of rectangular matrix completion in the regime where the matrix $M$  of size $n \times m$ is long, i.e., the aspect ratio $m/n$ diverges to infinity. Such matrices are of particular interest in the study of tensor completion, where they arise from the unfolding of a low-rank tensor. In the case where the sampling probability is $\frac{d}{\sqrt{mn}}$, we propose a new algorithm for recovering the singular values and left singular vectors of the original matrix based on a variant of the standard non-backtracking operator of a suitably defined bipartite graph. We show that when $d$ is above a Kesten-Stigum-type sampling threshold, our algorithm recovers a correlated version of the singular value decomposition of $M$ with quantifiable error bounds.
 
 
 # Denoising on Sphere via Large Spherical $t$-designs and Spherical Framelets
