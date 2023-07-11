@@ -6,7 +6,13 @@ menu:
   main:
     weight: 1
 ---
+
+
 Dinner on Wednesday will be at the Madison Beach Hotel from 6-7pm, and you must **register for dinner by Day 1**.
+
+The dinner starts at 6pm, and we have an **open bar** until about 8pm,
+with the buffet itself opening around 6:30pm. Hope to see many of you
+there!
 
 The hotel's address is:
 
