@@ -38,6 +38,10 @@ The excursion on Wednesday will be between 1:00pm-3:30pm; the dinner from 6-7pm.
 - Excursions: https://sampta2023.github.io/excursions/
 - Dinner: https://sampta2023.github.io/dinner/
 
+## Day 4
+
+We will have the afternoon session in the Wu Tsai Institute (11th floor, 100 College street). This is the same place where we had our poster session on Monday!
+
 ## Breaks and Lunch
 
 There will be some coffee and light breakfast items provided in the morning. 
