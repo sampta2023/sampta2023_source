@@ -1,5 +1,5 @@
 ---
-title: Accepted Paper Talks
+title: Accepted Papers and Abstracts
 date: 2023-07-09
 menu:
   main:
@@ -32,7 +32,8 @@ menu:
 	});
 </script>
 
-# Cubarture Formulas on Graphs by Means of Sampling and Interpolation
+# Cubature Formulas on Graphs by Means of Sampling and Interpolation
+
 ## Isaac Pesenson
 Two types of cubature formulas on combinatorial graphs are developed. Cubature formulas of the first type are obtained through interpolation by variational splines. This set of formulas is exact on spaces of variational splines on graphs. Since bandlimited functions can be obtained as limits of variational splines we obtain cubature formulas which are approximately exact on spaces of bandlimited functions. Accuracy of this type of cubature formulas is given in terms of geometry of the set of nodes of splines and in terms of smoothness of functions which is measured by means of the combinatorial Laplace operator. Cubature formulas of the second type are obtained through some sampling theorems for bandlimited functions and relay on existence of certain frames in appropriate subspaces of bandlimited functions. These type formulas are exact on a relevant subspaces of bandlimited functions. The results of the paper have potential applications to problems that arise in data mining.
 
