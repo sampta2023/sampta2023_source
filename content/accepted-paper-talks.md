@@ -32,6 +32,8 @@ menu:
 	});
 </script>
 
+**All accepted papers and abstracts are available via [OpenReview](https://openreview.net/group?id=SampTA/2023/Conference).**
+
 # Cubature Formulas on Graphs by Means of Sampling and Interpolation
 
 ## Isaac Pesenson
