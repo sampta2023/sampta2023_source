@@ -367,7 +367,7 @@ We study the problem of a local bandwidth  recovery for nonstationary stochastic
 
 
 # Relationships between the Phase Retrieval Problem and Permutation Invariant Embeddings
-## Radu Balan, Efstratos Tsoukanis
+## Radu Balan, Efstratios Tsoukanis
 This paper discusses the connection between the phase retrieval problem and permutation invariant embeddings. We show that the real phase retrieval problem for $\R^d/O(1)$ is equivalent to Euclidean embeddings of the quotient space $\R^{2	imes d}/S_2$ performed by the sorting encoder introduced in an earlier work. In addition, this relationship provides us with inversion algorithms of the orbits induced by the group of permutation matrices.
 
 
